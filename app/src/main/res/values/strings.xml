@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GSignInA</string>
+    <string name="txt_welcome">Bienvenido</string>
+    <string name="txt_GSign">Autenticarse</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_name">NOMBRE</string>
+    <string name="txt_email">EMAIL</string>
+    <string name="txt_signout">SALIR</string>
+</resources>
